@@ -11,7 +11,7 @@ namespace AssetStudio
         private static readonly Aes Aes;
         private static readonly string[] Keys =
         {
-            "kurokurokurokuro",
+            "1cab846f52901c9e",
             "y5XPvqLOrCokWRIa"
         };
 
